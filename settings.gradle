@@ -1,5 +1,1 @@
-include ':CircleOfFifths'
 include ':PdCore'
-include ':PdTest'
-include ':ScenePlayer'
-include ':Voice-O-Rama'
